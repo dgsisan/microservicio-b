@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/aeimer/java-example-helloworld-war
+HostUrl=https://raw.githubusercontent.com/aeimer/java-example-helloworld-war/master/dist/helloworld.war
